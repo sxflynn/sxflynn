@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Stephen Flynn and I am a new developer. I've spent the last 12 years in higher ed and public schools both teaching and working in tech-adjacent roles. I am now a student enrolled in the Tech Elevator bootcamp in Columbus, OH.
+My name is Stephen Flynn and I am  full stack developer in Columbus, OH. I will graduate from the Tech Elevator software bootcamp December, 2023. Prior to being a developer, I've spent 5 years as a technology librarian and 7 years as an 8th grade teacher.
 
 <!--
 **sxflynn/sxflynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
