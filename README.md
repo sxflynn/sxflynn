@@ -13,7 +13,7 @@ My name is Stephen Flynn and I am  full stack developer in Columbus, Ohio. Prior
  - 🏫 K12 Ed-tech
 
 ### GitHub project most active in
- - [Mantine](https://github.com/mantinedev/mantine) - A fully featured React component library
+ - [Mantine](https://github.com/mantinedev/mantine) - A fully featured React component library. [My PRs](https://github.com/mantinedev/mantine/pulls/sxflynn)
 
 ### Currently working on
  - Side Project Suggestion: An AI prompt wrapper that will help a developer student come up with side project ideas based on their skills and interests
