@@ -16,7 +16,7 @@ My name is Stephen Flynn and I am  full stack developer in Columbus, Ohio. Prior
  - [Mantine](https://github.com/mantinedev/mantine) - A fully featured React component library. [My PRs](https://github.com/mantinedev/mantine/pulls/sxflynn)
 
 ### Currently working on
- - Side Project Suggestion: An AI prompt wrapper that will help a developer student come up with side project ideas based on their skills and interests
+ - [Side Project Idea Generator](https://github.com/sxflynn/SideprojectIdeaGenerator) An AI prompt wrapper that will help a developer student come up with side project ideas based on their skills and interests
     - the purpose is to skill up on the OpenAI API so that I can move on to function calling and possibly Lang Chain
 
 ### Future projects
