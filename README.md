@@ -18,7 +18,7 @@ My name is Stephen Flynn and I am  full stack developer in Columbus, Ohio. Prior
 ### Currently working on
  - [Side Project Idea Generator](https://github.com/sxflynn/SideprojectIdeaGenerator) An AI prompt wrapper that will help a developer student come up with side project ideas based on their skills and interests
     - the purpose is to skill up on the OpenAI API so that I can move on to function calling and possibly Lang Chain
- - [TeacherGPT](https://github.com/sxflynn/TeacherGPT) - a conceptual RAG (Retrieval Augmented Generation) application AI chatbot that know about their students, using a fake school database. 
+ - [TeacherGPT](https://github.com/sxflynn/TeacherGPT) - a conceptual RAG (Retrieval Augmented Generation) application AI chatbot that know about their students, using a fictional school database. 
 
 ### Future ideas
  - A desktop GUI application that helps you view, filter and search video file metadata on your computer, like iTunes but for video files.
