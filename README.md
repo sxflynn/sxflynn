@@ -4,7 +4,7 @@ My name is Stephen Flynn and I am  full stack developer in Columbus, Ohio. Prior
 
 ### Recent projects
  - 🚀 [Developer portfolio](https://github.com/sxflynn/portfolio) - Deployed to https://www.sxflynn.net
- - 🗳️ [Upper Arlington School Board Election Predictor](https://github.com/sxflynn/electionsim) - Deployed to https://www.ballotbear.app
+ - 🗳️ [Upper Arlington School Board Election Predictor](https://github.com/sxflynn/electionsim) - Deployed to https://ballotbear.sxflynn.net
  - 🎒 [Cover My Shift](https://github.com/sxflynn/covermyshift) - Full stack Java Spring Boot / Vue.js application to help schools manage teacher absences
  - 🐋 Docker template projects, such as [Dockerize Your Capstone](https://github.com/sxflynn/dockerizeyourcapstone) and [Side Project Starter](https://github.com/sxflynn/sideprojectstarter)
 
